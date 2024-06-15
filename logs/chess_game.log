@@ -1,0 +1,17 @@
+2024-06-15 19:29:45,669 Starting new HTTPS connection (1): api.github.com:443
+2024-06-15 19:29:45,911 https://api.github.com:443 "GET /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 200 None
+2024-06-15 19:29:45,922 Starting new HTTPS connection (1): api.github.com:443
+2024-06-15 19:29:46,246 https://api.github.com:443 "PUT /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 200 None
+2024-06-15 19:29:46,255 Log successfully uploaded to GitHub. Status Code: 200
+2024-06-15 19:29:48,396 Clicked square: 12, Piece: P
+2024-06-15 19:29:48,396 Selected square: 12 with piece P
+2024-06-15 19:29:49,078 Clicked square: 28, Piece: None
+2024-06-15 19:29:50,250 Clicked square: 52, Piece: None
+2024-06-15 19:29:50,250 No piece at e2
+2024-06-15 19:29:51,141 Clicked square: 54, Piece: None
+2024-06-15 19:29:52,524 Clicked square: 61, Piece: None
+2024-06-15 19:29:53,212 Clicked square: 53, Piece: None
+2024-06-15 19:29:54,233 Clicked square: 60, Piece: k
+2024-06-15 19:29:54,234 Selected square: 60 with piece k
+2024-06-15 19:29:54,871 Clicked square: 52, Piece: None
+2024-06-15 19:29:54,890 First Maharaja move from e8 to e7
