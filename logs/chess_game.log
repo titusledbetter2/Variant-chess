@@ -22,3 +22,17 @@
 2024-06-15 18:48:27,760 Clicked square: 53, Piece: None
 2024-06-15 18:48:27,761 Trying move: e8f7 from 60 (k) to 53 (None)
 2024-06-15 18:48:27,761 Move e8f7 is valid
+2024-06-15 18:48:27,800 Starting new HTTPS connection (1): api.github.com:443
+2024-06-15 18:48:28,022 https://api.github.com:443 "GET /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 200 None
+2024-06-15 18:48:28,032 Starting new HTTPS connection (1): api.github.com:443
+2024-06-15 18:48:28,569 https://api.github.com:443 "PUT /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 200 None
+2024-06-15 18:48:28,578 Log successfully uploaded to GitHub. Status Code: 200
+2024-06-15 18:48:28,590 STREAM b'IHDR' 16 13
+2024-06-15 18:48:28,590 STREAM b'IDAT' 41 1216
+2024-06-15 18:48:28,593 Exception occurred while saving or uploading board image: 'latin-1' codec can't encode character '\u265a' in position 0: ordinal not in range(256)
+2024-06-15 18:48:28,594 Board FEN: 8/5k2/8/8/4P3/8/PPPP1PPP/RNBQKBNR w - - 1 2
+2024-06-15 18:48:29,792 Clicked square: 13, Piece: P
+2024-06-15 18:48:29,792 Selected square: 13 with piece P
+2024-06-15 18:48:30,497 Clicked square: 29, Piece: None
+2024-06-15 18:48:30,497 Trying move: f2f4 from 13 (P) to 29 (None)
+2024-06-15 18:48:30,498 Move f2f4 is valid
