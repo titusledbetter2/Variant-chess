@@ -1,0 +1,6 @@
+Message: Move invalid: e8 to d6
+FEN: 4k3/8/8/8/8/5N2/PPPPPPPP/RNBQKB1R b - - 1 1
+PGN: [SetUp "1"]
+[FEN "4k3/8/8/8/8/8/PPPPPPPP/RNBQKBNR w - - 0 1"]
+
+1. Nf3
