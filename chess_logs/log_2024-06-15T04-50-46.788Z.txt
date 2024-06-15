@@ -1,0 +1,6 @@
+Message: Move performed: e8 to d7
+FEN: 8/3k4/8/8/8/5N2/PPPPPPPP/RNBQKB1R w - - 2 2
+PGN: [SetUp "1"]
+[FEN "4k3/8/8/8/8/8/PPPPPPPP/RNBQKBNR w - - 0 1"]
+
+1. Nf3 Kd7
