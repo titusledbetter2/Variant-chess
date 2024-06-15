@@ -1,0 +1,10 @@
+2024-06-15 18:29:59,442 Starting new HTTPS connection (1): api.github.com:443
+2024-06-15 18:29:59,687 https://api.github.com:443 "GET /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 200 None
+2024-06-15 18:29:59,697 Starting new HTTPS connection (1): api.github.com:443
+2024-06-15 18:30:00,182 https://api.github.com:443 "PUT /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 200 None
+2024-06-15 18:30:00,192 Log successfully uploaded to GitHub. Status Code: 200
+2024-06-15 18:30:01,915 Clicked square: 13, Piece: P
+2024-06-15 18:30:01,916 Selected square: 13 with piece P
+2024-06-15 18:30:02,787 Clicked square: 29, Piece: None
+2024-06-15 18:30:02,788 Trying move: f2f4 from 13 (P) to 29 (None)
+2024-06-15 18:30:02,789 Move f2f4 is valid
