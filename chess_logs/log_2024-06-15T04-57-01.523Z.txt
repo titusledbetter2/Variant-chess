@@ -1,6 +1,0 @@
-Message: Move invalid: e8 to a4
-FEN: 4k3/8/8/8/7P/8/PPPPPPP1/RNBQKBNR b - h3 0 1
-PGN: [SetUp "1"]
-[FEN "4k3/8/8/8/8/8/PPPPPPPP/RNBQKBNR w - - 0 1"]
-
-1. h4
