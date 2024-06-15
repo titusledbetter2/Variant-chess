@@ -1,0 +1,20 @@
+2024-06-15 16:13:02,897 Exception occurred while setting up GitHub logging: name 'GITHUB_REPO' is not defined
+2024-06-15 16:13:04,387 Clicked square: 11, Piece: P
+2024-06-15 16:13:04,387 Selected square: 11 with piece P
+2024-06-15 16:13:05,104 Clicked square: 27, Piece: None
+2024-06-15 16:13:05,105 Trying move: d2d4 from 11 (P) to 27 (None)
+2024-06-15 16:13:05,106 Move d2d4 is valid
+2024-06-15 16:13:05,125 Board FEN: 4k3/8/8/8/3P4/8/PPP1PPPP/RNBQKBNR b - - 0 1
+2024-06-15 16:17:54,844 Exception occurred while setting up GitHub logging: name 'GITHUB_TOKEN' is not defined
+2024-06-15 16:17:57,498 Clicked square: 12, Piece: P
+2024-06-15 16:17:57,499 Selected square: 12 with piece P
+2024-06-15 16:17:58,240 Clicked square: 28, Piece: None
+2024-06-15 16:17:58,241 Trying move: e2e4 from 12 (P) to 28 (None)
+2024-06-15 16:17:58,242 Move e2e4 is valid
+2024-06-15 16:17:58,266 Board FEN: 4k3/8/8/8/4P3/8/PPPP1PPP/RNBQKBNR b - - 0 1
+2024-06-15 16:17:59,433 Clicked square: 60, Piece: k
+2024-06-15 16:17:59,434 Selected square: 60 with piece k
+2024-06-15 16:18:00,034 Clicked square: 53, Piece: None
+2024-06-15 16:18:00,035 Trying move: e8f7 from 60 (k) to 53 (None)
+2024-06-15 16:18:00,036 Move e8f7 is valid
+2024-06-15 16:18:00,058 Board FEN: 8/5k2/8/8/4P3/8/PPPP1PPP/RNBQKBNR w - - 1 2
