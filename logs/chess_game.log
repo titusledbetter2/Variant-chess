@@ -1,17 +1,22 @@
-2024-06-15 20:14:34,821 Starting new HTTPS connection (1): api.github.com:443
-2024-06-15 20:14:35,097 https://api.github.com:443 "GET /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 200 None
-2024-06-15 20:14:35,109 Starting new HTTPS connection (1): api.github.com:443
-2024-06-15 20:14:35,605 https://api.github.com:443 "PUT /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 200 None
-2024-06-15 20:14:35,614 Log successfully uploaded to GitHub. Status Code: 200
-2024-06-15 20:14:37,887 Clicked square: 12, Piece: P
-2024-06-15 20:14:37,888 Selected square: 12 with piece P
-2024-06-15 20:14:38,756 Clicked square: 28, Piece: None
-2024-06-15 20:14:40,199 Clicked square: 60, Piece: k
-2024-06-15 20:14:40,199 No piece at e2
-2024-06-15 20:14:40,930 Clicked square: 53, Piece: None
-2024-06-15 20:14:43,111 Clicked square: 52, Piece: None
-2024-06-15 20:14:43,835 Clicked square: 52, Piece: None
-2024-06-15 20:14:45,280 Clicked square: 60, Piece: k
-2024-06-15 20:14:45,280 Selected square: 60 with piece k
-2024-06-15 20:14:46,027 Clicked square: 51, Piece: None
-2024-06-15 20:14:46,057 First Maharaja move from e8 to d7
+2024-06-15 21:25:47,470 Starting new HTTPS connection (1): api.github.com:443
+2024-06-15 21:25:47,658 https://api.github.com:443 "GET /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 401 95
+2024-06-15 21:25:47,667 Starting new HTTPS connection (1): api.github.com:443
+2024-06-15 21:25:47,800 https://api.github.com:443 "PUT /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 401 95
+2024-06-15 21:25:47,809 Failed to upload log to GitHub. Status Code: 401. Response: {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+2024-06-15 21:25:50,822 Clicked square: 12, Piece: P
+2024-06-15 21:25:50,822 Selected square: 12 with piece P
+2024-06-15 21:25:51,843 Clicked square: 28, Piece: None
+2024-06-15 21:25:53,561 Clicked square: 60, Piece: k
+2024-06-15 21:25:53,562 No piece at e2
+2024-06-15 21:25:54,365 Clicked square: 51, Piece: None
+2024-06-15 21:25:56,896 Clicked square: 60, Piece: k
+2024-06-15 21:25:56,896 Selected square: 60 with piece k
+2024-06-15 21:25:57,986 Clicked square: 51, Piece: None
+2024-06-15 21:25:58,031 First Maharaja move from e8 to d7
+2024-06-15 21:25:58,046 Starting new HTTPS connection (1): api.github.com:443
+2024-06-15 21:25:58,193 https://api.github.com:443 "GET /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 401 95
+2024-06-15 21:25:58,204 Starting new HTTPS connection (1): api.github.com:443
+2024-06-15 21:25:58,346 https://api.github.com:443 "PUT /repos/titusledbetter2/Variant-chess/contents/logs/chess_game.log HTTP/1.1" 401 95
+2024-06-15 21:25:58,356 Failed to upload log to GitHub. Status Code: 401. Response: {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+2024-06-15 21:25:58,364 No moves to save to PGN
+2024-06-15 21:26:00,671 Quitting the game.
